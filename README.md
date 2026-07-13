@@ -1,4 +1,4 @@
-# Hi, I'm Samarth Patil 👋
+# Hi, I'm Samarth👋
 
 AI & Machine Learning student from India.
 
