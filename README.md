@@ -8,7 +8,15 @@ Currently exploring computer vision, language models, and automation while worki
 
 Outside programming, I'm interested in startups, business, psychology, geopolitics, and adventure.
 
-> Building today, learning forever.
+## Notes
+
+Build useful things.
+
+Question assumptions.
+
+Keep learning.
+
+Share what works.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patilone) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patilxcom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthpatilofc@gmail.com) 
