@@ -35,8 +35,3 @@ Outside programming, I'm interested in startups, business, psychology, geopoliti
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-[![](https://komarev.com/ghpvc/?username=samarthpatilofficial&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
