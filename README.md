@@ -10,7 +10,7 @@ Outside programming, I'm interested in startups, business, psychology, geopoliti
 
 ## Notes
 
-Build useful things.
+> Build useful things.
 
 Question assumptions.
 
